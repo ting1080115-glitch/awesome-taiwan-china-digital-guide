@@ -70,6 +70,7 @@
 
 ## 5. 亞洲周邊跨境實用好站推薦 (Helpful Regional Resources)
 
+- [China Travel Check](https://gochina.taoliapp.com/) - 英文實測向中國大陸獨立旅行手冊：簽證/過境、支付、eSIM、火車與常用 App（每頁標註核驗日期）。
 - [Kinxia 內地出行指南](https://www.kinxia.top/) - 專注港澳台赴大陸交通訂票、證件辦理與通訊開通實測。
 - [JPVoy 日本自由行交通大魔王解法](https://www.jpvoy.com/) - iPhone 西瓜卡 (Suica) 綁定避坑、JR Pass 跨區選購實測指南。
 
